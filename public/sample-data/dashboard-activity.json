@@ -1,0 +1,50 @@
+{
+  "data": {
+    "total_applications": 19,
+    "total_councils": 6,
+    "avarage_per_council": 3,
+    "activity": [
+      {
+        "council": "chichister",
+        "date": "17-02-2025",
+        "status": "ready",
+        "total_applications": 0,
+        "type": "xlss",
+        "download_link": "https://dev-api-permeso.savenko.tech/api/private/users/dashboard/67b265827a5655bd8799a142/report"
+      },
+      {
+        "council": "havant",
+        "date": "17-02-2025",
+        "status": "ready",
+        "total_applications": 3,
+        "type": "xlss",
+        "download_link": "https://dev-api-permeso.savenko.tech/api/private/users/dashboard/67b265827a5655bd8799a143/report"
+      },
+      {
+        "council": "isle-of-wight",
+        "date": "17-02-2025",
+        "status": "ready",
+        "total_applications": 10,
+        "type": "xlss",
+        "download_link": "https://dev-api-permeso.savenko.tech/api/private/users/dashboard/67b265827a5655bd8799a144/report"
+      },
+      {
+        "council": "east-hampshire",
+        "date": "17-02-2025",
+        "status": "ready",
+        "total_applications": 0,
+        "type": "xlss",
+        "download_link": "https://dev-api-permeso.savenko.tech/api/private/users/dashboard/67b265827a5655bd8799a145/report"
+      },
+      {
+        "council": "winchester",
+        "date": "17-02-2025",
+        "status": "ready",
+        "total_applications": 6,
+        "type": "xlss",
+        "download_link": "https://dev-api-permeso.savenko.tech/api/private/users/dashboard/67b265827a5655bd8799a146/report"
+      }
+    ]
+  },
+  "message": "Activity data fetched successfully!"
+}

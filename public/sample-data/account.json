@@ -1,0 +1,8 @@
+{
+  "data": {
+    "email": "example@mail.com",
+    "name": "Guest User",
+    "has_pat": true
+  },
+  "status": "success"
+}
