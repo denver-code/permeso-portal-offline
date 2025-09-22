@@ -30,7 +30,7 @@ export default function Page() {
           </h2>
           <p>
            The Permeso Service is developed by a single  <a
-                href="https://savenko.tech"
+                href="https://ihorsavenko.com"
                 className="text-blue-600 hover:underline"
               >
                 developer
@@ -47,10 +47,10 @@ export default function Page() {
           <p>
            The Permeso Service is closed-source and the source code is not available to the public. <br/><br/> However, if you are interested in accessing the code base, please contact us at {' '}
               <a
-                href="mailto:ihor@savenko.tech"
+                href="mailto:contact@ihorsavenko.com"
                 className="text-blue-600 hover:underline"
               >
-                ihor@savenko.tech
+                contact@ihorsavenko.com
               </a> to get more details.
 
               <br/><br/>
@@ -69,10 +69,10 @@ export default function Page() {
             <li>
               By email:{' '}
               <a
-                href="mailto:ihor@savenko.tech"
+                href="mailto:contact@ihorsavenko.com"
                 className="text-blue-600 hover:underline"
               >
-                ihor@savenko.tech
+                contact@ihorsavenko.com
               </a>
             </li>
           </ul>

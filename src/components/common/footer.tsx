@@ -24,7 +24,7 @@ export function Footer() {
 
             Built by{" "}
             <a
-                href="https://savenko.tech/about"
+                href="https://ihorsavenko.com/about"
                 target="_blank"
                 rel="noreferrer"
                 className="font-medium underline underline-offset-4"

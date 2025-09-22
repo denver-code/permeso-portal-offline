@@ -10,7 +10,7 @@
         "status": "ready",
         "total_applications": 0,
         "type": "xlss",
-        "download_link": "https://dev-api-permeso.savenko.tech/api/private/users/dashboard/67b265827a5655bd8799a142/report"
+        "download_link": "https://dev-api-permeso.ihorsavenko.com/api/private/users/dashboard/67b265827a5655bd8799a142/report"
       },
       {
         "council": "havant",
@@ -18,7 +18,7 @@
         "status": "ready",
         "total_applications": 3,
         "type": "xlss",
-        "download_link": "https://dev-api-permeso.savenko.tech/api/private/users/dashboard/67b265827a5655bd8799a143/report"
+        "download_link": "https://dev-api-permeso.ihorsavenko.com/api/private/users/dashboard/67b265827a5655bd8799a143/report"
       },
       {
         "council": "isle-of-wight",
@@ -26,7 +26,7 @@
         "status": "ready",
         "total_applications": 10,
         "type": "xlss",
-        "download_link": "https://dev-api-permeso.savenko.tech/api/private/users/dashboard/67b265827a5655bd8799a144/report"
+        "download_link": "https://dev-api-permeso.ihorsavenko.com/api/private/users/dashboard/67b265827a5655bd8799a144/report"
       },
       {
         "council": "east-hampshire",
@@ -34,7 +34,7 @@
         "status": "ready",
         "total_applications": 0,
         "type": "xlss",
-        "download_link": "https://dev-api-permeso.savenko.tech/api/private/users/dashboard/67b265827a5655bd8799a145/report"
+        "download_link": "https://dev-api-permeso.ihorsavenko.com/api/private/users/dashboard/67b265827a5655bd8799a145/report"
       },
       {
         "council": "winchester",
@@ -42,7 +42,7 @@
         "status": "ready",
         "total_applications": 6,
         "type": "xlss",
-        "download_link": "https://dev-api-permeso.savenko.tech/api/private/users/dashboard/67b265827a5655bd8799a146/report"
+        "download_link": "https://dev-api-permeso.ihorsavenko.com/api/private/users/dashboard/67b265827a5655bd8799a146/report"
       }
     ]
   },

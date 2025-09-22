@@ -52,7 +52,7 @@ NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_project_id
 NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your_storage_bucket
 NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
 NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id
-NEXT_PUBLIC_API_URL=https://dev-api-permeso.savenko.tech
+NEXT_PUBLIC_API_URL=https://dev-api-permeso.ihorsavenko.com
 ```
 
 - Create `env` file and paste these variables with your own information.
